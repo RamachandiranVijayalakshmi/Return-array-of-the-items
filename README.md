@@ -10,7 +10,7 @@ for i in range(0,n):
 else:
     print('Welcome Guys')
 ```
-## Example code for Array of the items:
+## Example Output for Array of the items:
 ```
 How many employee in office:3
 enter the 3 employee names
